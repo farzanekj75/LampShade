@@ -22,7 +22,7 @@ namespace ShopManagement.Application
             if (_productCategoryRepository.Exists(x => x.Name == command.Name))
                 return operation.Failed("امکان ثبت رکورد تکراری وجود ندارد، لطفا مجدد تلاش فرمایید.");
 
-            //var slug = command.Slug.Slugify();
+            var slug = command.Slug.Slugify();
             var productCategory = new ProductCategory(command.Name, command.Description, command.Picture, command.PictureAlt, command.PictureTitle, command.Keywords,
                 command.MetaDescription, slug);
             _productCategoryRepository.Create(productCategory);
@@ -39,7 +39,7 @@ namespace ShopManagement.Application
 
             if (_productCategoryRepository.Exists(x => x.Name == command.Name && x.Id != command.Id))
                 return operation.Failed(" امکان ثبت رکورد تکراری وجود ندارد، لطفا مجدد تلاش فرمایید.");
-            //var slug = command.Slug.Slugify();
+            var slug = command.Slug.Slugify();
             productcategory.Edit(command.Name, command.Description, command.Picture, command.PictureAlt, command.PictureTitle, command.Keywords,
                 command.MetaDescription, slug);
             _productCategoryRepository.SaveChanges();
