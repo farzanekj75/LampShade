@@ -1,31 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "D:\\farzane\\amoozesh\\Asp.net core\\LampShadeProject\\Code\\LampShade\\ShopManagement.Application\\ShopManagement.Application.csproj": {}
+    "C:\\Users\\kalami-f\\source\\repos\\LampShade\\LampShade\\ShopManagement.Application\\ShopManagement.Application.csproj": {}
   },
   "projects": {
-    "D:\\farzane\\amoozesh\\Asp.net core\\LampShadeProject\\Code\\LampShade\\0_Framework\\0_Framework.csproj": {
+    "C:\\Users\\kalami-f\\source\\repos\\LampShade\\LampShade\\0_Framework\\0_Framework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\farzane\\amoozesh\\Asp.net core\\LampShadeProject\\Code\\LampShade\\0_Framework\\0_Framework.csproj",
+        "projectUniqueName": "C:\\Users\\kalami-f\\source\\repos\\LampShade\\LampShade\\0_Framework\\0_Framework.csproj",
         "projectName": "0_Framework",
-        "projectPath": "D:\\farzane\\amoozesh\\Asp.net core\\LampShadeProject\\Code\\LampShade\\0_Framework\\0_Framework.csproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\farzane\\amoozesh\\Asp.net core\\LampShadeProject\\Code\\LampShade\\0_Framework\\obj\\",
+        "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade\\LampShade\\0_Framework\\0_Framework.csproj",
+        "packagesPath": "C:\\Users\\kalami-f\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade\\LampShade\\0_Framework\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\kalami-f\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +51,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -64,40 +61,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-rc.2.22477.23\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\farzane\\amoozesh\\Asp.net core\\LampShadeProject\\Code\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
+    "C:\\Users\\kalami-f\\source\\repos\\LampShade\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\farzane\\amoozesh\\Asp.net core\\LampShadeProject\\Code\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\kalami-f\\source\\repos\\LampShade\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj",
         "projectName": "ShopManagement.Application.Contracts",
-        "projectPath": "D:\\farzane\\amoozesh\\Asp.net core\\LampShadeProject\\Code\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\farzane\\amoozesh\\Asp.net core\\LampShadeProject\\Code\\LampShade\\ShopManagement.Application.Contracts\\obj\\",
+        "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj",
+        "packagesPath": "C:\\Users\\kalami-f\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade\\LampShade\\ShopManagement.Application.Contracts\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\kalami-f\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\farzane\\amoozesh\\Asp.net core\\LampShadeProject\\Code\\LampShade\\0_Framework\\0_Framework.csproj": {
-                "projectPath": "D:\\farzane\\amoozesh\\Asp.net core\\LampShadeProject\\Code\\LampShade\\0_Framework\\0_Framework.csproj"
+              "C:\\Users\\kalami-f\\source\\repos\\LampShade\\LampShade\\0_Framework\\0_Framework.csproj": {
+                "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade\\LampShade\\0_Framework\\0_Framework.csproj"
               }
             }
           }
@@ -117,7 +110,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -126,46 +120,42 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-rc.2.22477.23\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\farzane\\amoozesh\\Asp.net core\\LampShadeProject\\Code\\LampShade\\ShopManagement.Application\\ShopManagement.Application.csproj": {
+    "C:\\Users\\kalami-f\\source\\repos\\LampShade\\LampShade\\ShopManagement.Application\\ShopManagement.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\farzane\\amoozesh\\Asp.net core\\LampShadeProject\\Code\\LampShade\\ShopManagement.Application\\ShopManagement.Application.csproj",
+        "projectUniqueName": "C:\\Users\\kalami-f\\source\\repos\\LampShade\\LampShade\\ShopManagement.Application\\ShopManagement.Application.csproj",
         "projectName": "ShopManagement.Application",
-        "projectPath": "D:\\farzane\\amoozesh\\Asp.net core\\LampShadeProject\\Code\\LampShade\\ShopManagement.Application\\ShopManagement.Application.csproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\farzane\\amoozesh\\Asp.net core\\LampShadeProject\\Code\\LampShade\\ShopManagement.Application\\obj\\",
+        "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade\\LampShade\\ShopManagement.Application\\ShopManagement.Application.csproj",
+        "packagesPath": "C:\\Users\\kalami-f\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade\\LampShade\\ShopManagement.Application\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\kalami-f\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\farzane\\amoozesh\\Asp.net core\\LampShadeProject\\Code\\LampShade\\0_Framework\\0_Framework.csproj": {
-                "projectPath": "D:\\farzane\\amoozesh\\Asp.net core\\LampShadeProject\\Code\\LampShade\\0_Framework\\0_Framework.csproj"
+              "C:\\Users\\kalami-f\\source\\repos\\LampShade\\LampShade\\0_Framework\\0_Framework.csproj": {
+                "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade\\LampShade\\0_Framework\\0_Framework.csproj"
               },
-              "D:\\farzane\\amoozesh\\Asp.net core\\LampShadeProject\\Code\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
-                "projectPath": "D:\\farzane\\amoozesh\\Asp.net core\\LampShadeProject\\Code\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
+              "C:\\Users\\kalami-f\\source\\repos\\LampShade\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
+                "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
               },
-              "D:\\farzane\\amoozesh\\Asp.net core\\LampShadeProject\\Code\\LampShade\\ShopManagement.Domain\\ShopManagement.Domain.csproj": {
-                "projectPath": "D:\\farzane\\amoozesh\\Asp.net core\\LampShadeProject\\Code\\LampShade\\ShopManagement.Domain\\ShopManagement.Domain.csproj"
+              "C:\\Users\\kalami-f\\source\\repos\\LampShade\\LampShade\\ShopManagement.Domain\\ShopManagement.Domain.csproj": {
+                "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade\\LampShade\\ShopManagement.Domain\\ShopManagement.Domain.csproj"
               }
             }
           }
@@ -185,7 +175,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -194,43 +185,39 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-rc.2.22477.23\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\farzane\\amoozesh\\Asp.net core\\LampShadeProject\\Code\\LampShade\\ShopManagement.Domain\\ShopManagement.Domain.csproj": {
+    "C:\\Users\\kalami-f\\source\\repos\\LampShade\\LampShade\\ShopManagement.Domain\\ShopManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\farzane\\amoozesh\\Asp.net core\\LampShadeProject\\Code\\LampShade\\ShopManagement.Domain\\ShopManagement.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\kalami-f\\source\\repos\\LampShade\\LampShade\\ShopManagement.Domain\\ShopManagement.Domain.csproj",
         "projectName": "ShopManagement.Domain",
-        "projectPath": "D:\\farzane\\amoozesh\\Asp.net core\\LampShadeProject\\Code\\LampShade\\ShopManagement.Domain\\ShopManagement.Domain.csproj",
-        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "D:\\farzane\\amoozesh\\Asp.net core\\LampShadeProject\\Code\\LampShade\\ShopManagement.Domain\\obj\\",
+        "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade\\LampShade\\ShopManagement.Domain\\ShopManagement.Domain.csproj",
+        "packagesPath": "C:\\Users\\kalami-f\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade\\LampShade\\ShopManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\kalami-f\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\farzane\\amoozesh\\Asp.net core\\LampShadeProject\\Code\\LampShade\\0_Framework\\0_Framework.csproj": {
-                "projectPath": "D:\\farzane\\amoozesh\\Asp.net core\\LampShadeProject\\Code\\LampShade\\0_Framework\\0_Framework.csproj"
+              "C:\\Users\\kalami-f\\source\\repos\\LampShade\\LampShade\\0_Framework\\0_Framework.csproj": {
+                "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade\\LampShade\\0_Framework\\0_Framework.csproj"
               },
-              "D:\\farzane\\amoozesh\\Asp.net core\\LampShadeProject\\Code\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
-                "projectPath": "D:\\farzane\\amoozesh\\Asp.net core\\LampShadeProject\\Code\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
+              "C:\\Users\\kalami-f\\source\\repos\\LampShade\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
+                "projectPath": "C:\\Users\\kalami-f\\source\\repos\\LampShade\\LampShade\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
               }
             }
           }
@@ -250,7 +237,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -259,7 +247,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100-rc.2.22477.23\\RuntimeIdentifierGraph.json"
         }
       }
     }

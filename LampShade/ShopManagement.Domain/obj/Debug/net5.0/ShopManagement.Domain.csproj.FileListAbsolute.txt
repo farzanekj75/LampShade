@@ -1,0 +1,17 @@
+C:\Users\kalami-f\source\repos\LampShade\LampShade\ShopManagement.Domain\bin\Debug\net5.0\ShopManagement.Domain.deps.json
+C:\Users\kalami-f\source\repos\LampShade\LampShade\ShopManagement.Domain\bin\Debug\net5.0\ShopManagement.Domain.dll
+C:\Users\kalami-f\source\repos\LampShade\LampShade\ShopManagement.Domain\bin\Debug\net5.0\ShopManagement.Domain.pdb
+C:\Users\kalami-f\source\repos\LampShade\LampShade\ShopManagement.Domain\bin\Debug\net5.0\0_Framework.dll
+C:\Users\kalami-f\source\repos\LampShade\LampShade\ShopManagement.Domain\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+C:\Users\kalami-f\source\repos\LampShade\LampShade\ShopManagement.Domain\bin\Debug\net5.0\0_Framework.pdb
+C:\Users\kalami-f\source\repos\LampShade\LampShade\ShopManagement.Domain\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+C:\Users\kalami-f\source\repos\LampShade\LampShade\ShopManagement.Domain\obj\Debug\net5.0\ShopManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\kalami-f\source\repos\LampShade\LampShade\ShopManagement.Domain\obj\Debug\net5.0\ShopManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalami-f\source\repos\LampShade\LampShade\ShopManagement.Domain\obj\Debug\net5.0\ShopManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\kalami-f\source\repos\LampShade\LampShade\ShopManagement.Domain\obj\Debug\net5.0\ShopManagement.Domain.AssemblyInfo.cs
+C:\Users\kalami-f\source\repos\LampShade\LampShade\ShopManagement.Domain\obj\Debug\net5.0\ShopManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kalami-f\source\repos\LampShade\LampShade\ShopManagement.Domain\obj\Debug\net5.0\ShopManagement.Domain.csproj.CopyComplete
+C:\Users\kalami-f\source\repos\LampShade\LampShade\ShopManagement.Domain\obj\Debug\net5.0\ShopManagement.Domain.dll
+C:\Users\kalami-f\source\repos\LampShade\LampShade\ShopManagement.Domain\obj\Debug\net5.0\refint\ShopManagement.Domain.dll
+C:\Users\kalami-f\source\repos\LampShade\LampShade\ShopManagement.Domain\obj\Debug\net5.0\ShopManagement.Domain.pdb
+C:\Users\kalami-f\source\repos\LampShade\LampShade\ShopManagement.Domain\obj\Debug\net5.0\ref\ShopManagement.Domain.dll
