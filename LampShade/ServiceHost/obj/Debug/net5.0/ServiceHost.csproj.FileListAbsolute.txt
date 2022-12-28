@@ -159,3 +159,8 @@ C:\Users\kalami-f\source\repos\LampShade\LampShade\ServiceHost\obj\Debug\net5.0\
 C:\Users\kalami-f\source\repos\LampShade\LampShade\ServiceHost\obj\Debug\net5.0\ServiceHost.pdb
 C:\Users\kalami-f\source\repos\LampShade\LampShade\ServiceHost\obj\Debug\net5.0\ServiceHost.genruntimeconfig.cache
 C:\Users\kalami-f\source\repos\LampShade\LampShade\ServiceHost\obj\Debug\net5.0\ref\ServiceHost.dll
+C:\Users\kalami-f\source\repos\LampShade\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Index.cshtml.g.cs
+C:\Users\kalami-f\source\repos\LampShade\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\kalami-f\source\repos\LampShade\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\kalami-f\source\repos\LampShade\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\_ViewImports.cshtml.g.cs
+C:\Users\kalami-f\source\repos\LampShade\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Administration\Pages\_ViewStart.cshtml.g.cs
