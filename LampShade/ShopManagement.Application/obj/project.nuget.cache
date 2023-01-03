@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "QxlZCPcMtZYrLqOu4oy3POiMX5D4gXnR8O471/Z0oshjehYxly0YIYxZT81VDleN8+Kp2UM9XgGvv5vx3LPitQ==",
+  "dgSpecHash": "lwv0O8yvLbESei5Xg308ptbl3Nn9D1Taz3lfWOMF1eEITkszijkQSmNm7Q+Q2iNFGNkZdmj2McFxByw4AMQ74A==",
   "success": true,
   "projectFilePath": "C:\\Users\\kalami-f\\source\\repos\\LampShade\\LampShade\\ShopManagement.Application\\ShopManagement.Application.csproj",
   "expectedPackageFiles": [
@@ -17,7 +17,10 @@
     "C:\\Users\\kalami-f\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "C:\\Users\\kalami-f\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
     "C:\\Users\\kalami-f\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
-    "C:\\Users\\kalami-f\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512"
+    "C:\\Users\\kalami-f\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
+    "C:\\Users\\kalami-f\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\kalami-f\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\kalami-f\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

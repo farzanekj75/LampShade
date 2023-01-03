@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "4xIwsLPv044HZxEmi/JZMSPxkPaxPmpzfgEcA/YsEy6nRepsMZ+X3Op069CIkiqmIUmjEeApKizCreKkkHM7+A==",
+  "dgSpecHash": "ydt6/bHAaxswhfvGB0oq5eFVoX/fYEZBNyRschTkBEOf44QSBIKUTTgU1ri9E6CAFXeq/AVrS9uKXQCdq3NT8w==",
   "success": true,
   "projectFilePath": "C:\\Users\\kalami-f\\source\\repos\\LampShade\\LampShade\\ShopManagement.Configuration\\ShopManagement.Configuration.csproj",
   "expectedPackageFiles": [
@@ -97,7 +97,10 @@
     "C:\\Users\\kalami-f\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\kalami-f\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\kalami-f\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\kalami-f\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\kalami-f\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\kalami-f\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\kalami-f\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\kalami-f\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
